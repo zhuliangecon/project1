@@ -8,6 +8,7 @@ The goal of this project is to write a program that prints the message "Hello fr
 project1/
 │
 ├── hello.c                 # Main program entry
+├── output.txt              # Output file
 ├── project1.sh             # Script to execute the program on the cluster
 └── README.md               # This documentation file
 ```
